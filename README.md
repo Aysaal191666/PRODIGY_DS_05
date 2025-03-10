@@ -1,40 +1,22 @@
 # PRODIGY_DS_05
 Analysis and visualization of US traffic accident data.
-# US Accident Analysis & Hotspot Mapping
+# US Accident Analysis & Hotspot Mapping 🚦
 
-This project analyzes traffic accident data to identify patterns related to road conditions, weather, and time of day. It also visualizes accident hotspots using Folium.
+This project analyzes US accident data to identify patterns based on weather, road conditions, and time of day. It also visualizes accident hotspots using Folium.
 
-## Dataset
-The dataset is sourced from the US Accidents dataset available at [Kaggle](https://www.kaggle.com/code/harshalbhamare/us-accident-eda).
+## 📌 Features
+✔️ Accident severity and time-based analysis  
+✔️ Weather and road condition impact on accidents  
+✔️ Heatmap visualization of accident hotspots  
 
-## Features
-- **Accident Distribution by State**
-- **Severity Analysis**
-- **Weather Condition Impact**
-- **Time-based Patterns** (Hourly & Daily Trends)
-- **Hotspot Mapping using Folium HeatMap**
+## 📂 Folder Structure
+- `us_accident_analysis.py` → Main Python script  
+- `hotspot_map.html` → Interactive accident hotspot map  
+- `accident_analysis.png` → Combined output image of all graphs  
+- `requirements.txt` → Required Python dependencies  
 
-## Installation
-Clone the repository and install the required dependencies:
-```sh
-pip install -r requirements.txt
-```
-
-## Usage
-Run the analysis script:
-```sh
-python us_accident_analysis.py
-```
-The interactive accident hotspot map will be saved as `hotspot_map.html`.
-
-## Dependencies (`requirements.txt`)
-```
-pandas
-numpy
-matplotlib
-seaborn
-folium
-```
-
-## Results
-
+## 🔧 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/US-Accident-Analysis.git
+   cd US-Accident-Analysis
