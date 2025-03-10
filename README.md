@@ -37,12 +37,4 @@ folium
 ```
 
 ## Results
-- Bar plots for accident severity, state-wise distribution, and weather impact
-- Time-based accident trends
-- Interactive accident hotspot map
 
-## Hotspot Map Output
-After running the script, open `hotspot_map.html` to view the interactive accident heatmap.
-
-## License
-This project is for educational purposes only.
