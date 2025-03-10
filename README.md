@@ -20,3 +20,30 @@ This project analyzes US accident data to identify patterns based on weather, ro
    ```bash
    git clone https://github.com/your-username/US-Accident-Analysis.git
    cd US-Accident-Analysis
+2. ## Requirements
+   ```
+   pip install -r requirements.txt
+## Output Files
+
+### Accident Analysis Visualization  
+The script generates accident trend visualizations and saves them as `accident_analysis.png`.
+
+![Accident Analysis](accident_analysis.png)
+
+### Accident Hotspot Map  
+An interactive accident hotspot map is generated and saved as `hotspot_map.html`.  
+Open it in a browser to explore accident-prone areas.
+
+- **Windows:** Double-click `hotspot_map.html` to open  
+- **Mac/Linux:** Run  
+  ```bash
+  open hotspot_map.html  # Mac  
+  xdg-open hotspot_map.html  # Linux  
+
+## 📂 Dataset
+The dataset used for this analysis is sourced from Kaggle:
+🔗 [US Accidents Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+
+📄 Description:
+This dataset contains records of road accidents in the United States, including information on severity, location, weather conditions, and time of occurrence.
+
