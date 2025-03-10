@@ -18,7 +18,7 @@ This project analyzes US accident data to identify patterns based on weather, ro
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/US-Accident-Analysis.git
+   git clone https://github.com/Aysaal191666/PRODIGY_DS_05.git
    cd US-Accident-Analysis
 2. ## Requirements
    ```
