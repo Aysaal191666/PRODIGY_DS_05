@@ -10,7 +10,7 @@ This project analyzes US accident data to identify patterns based on weather, ro
 ✔️ Heatmap visualization of accident hotspots  
 
 ## 📂 Folder Structure
-- `us_accident_analysis.py` → Main Python script  
+- `accident_analysis.py` → Main Python script  
 - `hotspot_map.html` → Interactive accident hotspot map  
 - `accident_analysis.png` → Combined output image of all graphs  
 - `requirements.txt` → Required Python dependencies  
